@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @michaellrowley
 - 👀 I’m interested in Software Development and Information Security!
-- 🌱 I’m currently working with C#, C++, Python, and Ghidra.
+- 🌱 I’m mainly developing projects with C#, C++, Python.
 - 📫 Contact me via michaellrowley@protonmail.com!
