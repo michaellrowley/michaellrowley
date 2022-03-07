@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaellrowley
 - 👀 Interested in software engineering and information security!
 - 🌱 Mainly developing projects with C#, C++, C, and Python.
-- 🐰 Finding vulnerabilities in software at [HackerOne](https://hackerone.com/michaelrowley) (most of the programs that I participate in are private).
 - 📫 michaellrowley@protonmail.com / https://www.michaelrowley.dev/
+- 🎯 CVE-2021-3678, CVE-2021-3680, and CVE-2022-0870!
